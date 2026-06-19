@@ -76,7 +76,7 @@ export const projects: Project[] = [
     details:
       'Mengembangkan sistem deteksi URL phishing berbasis Random Forest untuk mengklasifikasikan URL berdasarkan fitur strukturalnya. Melakukan preprocessing, feature extraction, dan evaluasi, lalu diintegrasikan ke dalam Discord Bot untuk deteksi dan peringatan otomatis secara real-time.',
     link: 'https://github.com/ExYeZett/url-phishing-detection-random-forest',
-    image: 'https://cdn.discordapp.com/attachments/531412815580364802/1517183830778318961/image.png?ex=6a355b0d&is=6a34098d&hm=7ae92c4f56efb9b8edeebd8a51ec1a9c6edd86d18276e48da0d1076a24338884&',
+    image: 'https://cdn.discordapp.com/attachments/531412815580364802/1517183830778318961/image.png?ex=6a36ac8d&is=6a355b0d&hm=f18bb35b9897cff74cd365dad3adca486e9e23de40a5823ad87813059755c6f7&',
     query: 'cyber-security',
     metrics: [
       { label: 'Accuracy', value: '94%' },
@@ -91,7 +91,7 @@ export const projects: Project[] = [
     details:
       'Melakukan Exploratory Data Analysis (EDA) untuk mengidentifikasi distribusi variabel lingkungan dan menemukan ketidakseimbangan kelas (Good 40%, Moderate 30%, Poor 20%, Hazardous 10%). Membangun model klasifikasi KNN dan Naive Bayes menggunakan cross-validation untuk otomatisasi klasifikasi kualitas udara.',
     link: 'https://github.com/ExYeZett/air-quality-classification-ml',
-    image: '/images/project-airquality.png',
+    image: 'https://cdn.discordapp.com/attachments/531412815580364802/1517576265257975808/26-facts-about-air-quality-1726110200.png?ex=6a36c888&is=6a357708&hm=965281c5fdc1b41f17269d891e75ccffef27071b528457deb308903e44be9c5c&',
     query: 'air-quality',
     metrics: [
       { label: 'KNN (k=9)', value: '90.25%' },
